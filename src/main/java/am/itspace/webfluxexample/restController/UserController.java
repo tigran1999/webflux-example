@@ -1,4 +1,4 @@
-package am.itspace.webfluxexample.controller;
+package am.itspace.webfluxexample.restController;
 
 import am.itspace.webfluxexample.repository.UserRepository;
 import am.itspace.webfluxexample.model.User;
