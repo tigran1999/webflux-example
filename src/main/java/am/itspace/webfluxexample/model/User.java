@@ -8,6 +8,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 
 /**
  * The type User.
+ * Hello Everybody 
  */
 @Document(collection = "users")
 @Data
