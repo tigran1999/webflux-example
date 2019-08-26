@@ -7,7 +7,7 @@ import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 /**
- * The type User.
+ * The type User
  */
 @Document(collection = "users")
 @Data
